@@ -1,4 +1,4 @@
-# Discord.js Basic COmmand Handler
+# Discord.js Basic Command Handler
 
 **This is a basic command handler for discord.js to run commands and events in their own files! Below you can find all the documentation on the command handler!**
 
